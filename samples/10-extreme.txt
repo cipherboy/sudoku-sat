@@ -1,0 +1,25 @@
+s2x0x4 := T;
+s5x0x7 := T;
+s8x0x6 := T;
+s4x1x8 := T;
+s7x1x1 := T;
+s1x2x3 := T;
+s2x2x0 := T;
+s5x2x4 := T;
+s0x3x7 := T;
+s6x3x4 := T;
+s1x4x6 := T;
+s3x4x5 := T;
+s5x4x1 := T;
+s7x4x8 := T;
+s2x5x8 := T;
+s8x5x1 := T;
+s3x6x6 := T;
+s6x6x8 := T;
+s7x6x2 := T;
+s1x7x5 := T;
+s4x7x3 := T;
+s0x8x3 := T;
+s3x8x8 := T;
+s6x8x7 := T;
+
