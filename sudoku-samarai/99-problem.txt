@@ -1,0 +1,2 @@
+problem := AND(s1squareinternal,s1squarecolumn,s1squarerow,s1squaresquare,s2squareinternal,s2squarecolumn,s2squarerow,s2squaresquare,s3squareinternal,s3squarecolumn,s3squarerow,s3squaresquare,s4squareinternal,s4squarecolumn,s4squarerow,s4squaresquare,s5squareinternal,s5squarecolumn,s5squarerow,s5squaresquare,combine);
+ASSIGN problem;

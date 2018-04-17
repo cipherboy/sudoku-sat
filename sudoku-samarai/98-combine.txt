@@ -1,0 +1,1 @@
+combine := AND(s1s3combine, s2s3combine, s3s4combine, s3s5combine);
