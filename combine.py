@@ -2,19 +2,17 @@
 
 import sys
 
-assert(len(sys.argv) == 12)
+assert(len(sys.argv) == 10)
 
 size = int(sys.argv[1])
 p1 = sys.argv[2]
 p1x_min = int(sys.argv[3])
-p1x_max = int(sys.argv[4])
+p1x_max = int(sys.argv[4])+1
 p1y_min = int(sys.argv[5])
-p1y_max = int(sys.argv[6])
+p1y_max = int(sys.argv[6])+1
 p2 = sys.argv[7]
 p2x_min = int(sys.argv[8])
-p2x_max = int(sys.argv[9])
-p2y_min = int(sys.argv[10])
-p2y_max = int(sys.argv[11])
+p2y_min = int(sys.argv[9])
 
 
 f = open("50-combine-" + p1 + "-" + p2 + ".txt", "w")
